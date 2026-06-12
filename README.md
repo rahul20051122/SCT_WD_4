@@ -34,7 +34,7 @@ SCT_WD_4/
 
  📸 Screenshots
 
-[Home Screen](home_screen.png)
+[Home Screen](homescreen.png)
 
 
 [Task Management](task.png)
